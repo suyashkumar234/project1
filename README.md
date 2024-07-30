@@ -1,4 +1,4 @@
 # project1
 First repo
 <br>
-Author-Suyash
+Author-Suyash Kumar
